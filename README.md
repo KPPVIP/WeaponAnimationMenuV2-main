@@ -6,5 +6,7 @@ You can set the command and weapons you want to use in the config. Once started 
 Drag WeaponAnimationMenu to your resources folder and write start WeapnAnimationMenuV2 in your server cfg.
 
 # Disclaimer
-DO NOT change the name of the resource or it will break and you will look stupid.
+DO NOT change the name of the resource or it will break.
 
+Also, do not download the backdoored version and use the ORIGINAL REPOSITORY
+https://github.com/Andyyy7666/WeaponAnimationMenuV2
